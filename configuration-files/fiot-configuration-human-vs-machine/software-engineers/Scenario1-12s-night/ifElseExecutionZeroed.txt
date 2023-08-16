@@ -1,0 +1,6 @@
+INICIO: Tue Jul 04 00:36:41 BRT 2017
+Fitness -40.0
+Energy 0.0
+People 0.0
+totalFTrip 66.66666666666667
+FIM: Tue Jul 04 00:37:29 BRT 2017

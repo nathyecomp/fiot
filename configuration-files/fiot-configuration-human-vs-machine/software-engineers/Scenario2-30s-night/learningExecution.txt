@@ -1,0 +1,7 @@
+INICIO: Fri Jul 14 23:32:35 BRT 2017
+Selected Individual1.2,1.6,-0.8,-0.8,1.6,1.5,-0.5,-0.3,-0.6,-0.9,1.7,-0.2,-0.7,-0.4
+Fitness 53.55555555555555
+Energy 24.444444444444464
+People 100.0
+totalFTrip 61.111111111111114
+FIM: Fri Jul 14 23:34:43 BRT 2017

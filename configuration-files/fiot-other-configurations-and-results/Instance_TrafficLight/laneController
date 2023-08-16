@@ -1,0 +1,14 @@
+<Type>: laneNeuralNetwork2
+<Input>: 4
+microphone1
+previousColorSignal
+carRate
+ambulanceRate
+<Output>: 2
+colorSignal
+signalVoice
+<NHiddens>: 2
+<NWeight>: 50
+<end>
+
+//typeAgent: road

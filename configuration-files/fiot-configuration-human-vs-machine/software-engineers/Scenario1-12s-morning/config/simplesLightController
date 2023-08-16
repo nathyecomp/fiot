@@ -1,0 +1,12 @@
+<Type>: lightNeuralNetwork
+<SubType>:P16
+<Input>: 4
+previousListeningDecision
+lightSensor
+motionSensor
+wirelessReceiver
+<Output>: 3
+wirelessTransmitter
+listeningDecision
+lightDecision
+<end>

@@ -1,0 +1,5 @@
+<NumberOfPeople>: 3
+<MaxPeopleNode>: 10
+<TimeOfSimulation>:40
+<EnvironmentalLight>:0.5
+-<end>-

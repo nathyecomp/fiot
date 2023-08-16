@@ -1,0 +1,6 @@
+<NumberOfPeople>: 1
+<MaxPeopleNode>: 100
+<TimeOfSimulation>:12
+<EnvironmentalLight>:0.0
+<FixedBrokenGlass>:3,11,15
+-<end>-

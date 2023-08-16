@@ -1,0 +1,10 @@
+<numberOfGeneration>:20
+<numberOfTests>:3
+<numOfBestToBeSelected>:10
+<numOfChildren>:3
+<numberOfPopulation>:40
+<elitismSaveFitness>:1
+<maxNumGenes>: 18
+<valueMaxOfGene>: 5
+<rateMutation>:10
+<fitness>:1

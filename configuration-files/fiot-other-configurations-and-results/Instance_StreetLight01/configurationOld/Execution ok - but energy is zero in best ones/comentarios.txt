@@ -1,0 +1,7 @@
+se a energia total foi zero, significa que ele  foi sorteado com o ambiente claro em todas as simulacoes
+
+a luz do ambiente nao pode ser aleatoria pq isso vai favorecer aquele q foi sorteado com o ambiente claro
+mais vezes
+
+fiz essa alteracao depois dessa simulacao
+coloquei p cada light executar 2 X de cada situacao ambiente

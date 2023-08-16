@@ -1,0 +1,15 @@
+<Type>: lightNeuralNetwork
+<Input>: 6
+previousWirelessTransmitter
+previousListeningDecision
+previousLightDecision
+lightSensor
+motionSensor
+wirelessReceiver
+<Output>: 3
+wirelessTransmitter
+listeningDecision
+lightDecision
+<NHiddens>: 2
+<NWeight>: 18
+<end>

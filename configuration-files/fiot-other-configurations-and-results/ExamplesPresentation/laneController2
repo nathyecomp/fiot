@@ -1,0 +1,14 @@
+<Type>: laneNeuralNetwork2
+<Input>: 4
+receptor
+previousColorSignal
+carRate
+busRate
+<Output>: 2
+colorSignal
+emissor
+<NHiddens>: 2
+<NWeight>: 50
+<end>
+
+//typeAgent: road

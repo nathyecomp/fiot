@@ -1,0 +1,11 @@
+<Type>: lightNeuralNetwork
+<Input>: 4
+previousListeningDecision
+lightSensor
+motionSensor
+wirelessReceiver
+<Output>: 3
+wirelessTransmitter
+listeningDecision
+lightDecision
+<end>

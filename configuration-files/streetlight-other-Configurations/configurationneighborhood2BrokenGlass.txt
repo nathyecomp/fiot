@@ -1,0 +1,5 @@
+<NumberOfPeople>: 1
+<MaxPeopleNode>: 20
+<TimeOfSimulation>:10
+<PercentualBrokenGlass>:20
+-<end>-

@@ -1,0 +1,12 @@
+<numberOfGeneration>:20
+<numberOfTests>:10
+<numOfBestToBeSelected>:20
+<numOfChildren>:4
+<numberOfPopulation>:100
+<elitismSaveFitness>:1
+<maxNumGenes>: 14
+<valueMaxOfGene>: 5
+<rateMutation>:10
+<fitness>:1
+<genotype>:1
+-2.1, 4.2, -0.0, -2.1, -0.7, 3.0, 4.6, -2.5, 4.7, -1.9, -1.4, 3.3, -0.8, -1.7

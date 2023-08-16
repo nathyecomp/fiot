@@ -1,0 +1,14 @@
+<Type>: lightNeuralNetwork
+<Input>: 4
+previousDecision
+peopleRate
+temperature
+busR
+<Output>: 2
+colorSignal
+emissor
+<NHiddens>: 2
+<NWeight>: 50
+<end>
+
+//typeAgent: road

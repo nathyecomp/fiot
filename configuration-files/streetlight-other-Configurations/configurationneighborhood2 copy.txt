@@ -1,0 +1,4 @@
+<NumberOfPeople>: 10
+<MaxPeopleNode>: 20
+<TimeOfSimulation>:10
+-<end>-

@@ -1,0 +1,21 @@
+<Type>: bananaController
+<Input>: 5
+temperature
+humidity
+hydrogen
+methane
+lighting
+<InputType>: 5
+temperature->SHT15
+humidity->SHT15
+hydrogen->MQ8
+methane->MQ4
+lighting->LilyPadLightSensor
+<Output>: 1
+timespoiled
+<NHiddens>: 4
+<NWeight>: 50
+<end>
+
+//typeAgent: road
+//inputtype: if the input is not on relation, the value readed is the same of received one

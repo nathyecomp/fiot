@@ -1,0 +1,10 @@
+<Type>: lightNeuralNetwork
+<Input>: 2
+previousLightDecision
+wirelessReceiver
+<Output>: 2
+wirelessTransmitter
+lightDecision
+<NHiddens>: 2
+<NWeight>: 8
+<end>
